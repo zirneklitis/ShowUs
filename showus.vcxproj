@@ -24,12 +24,11 @@
     <Image Include="keycastow.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Manifest Include="keycastow.exe.manifest" />
+    <Manifest Include="showus.exe.manifest" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D9A196AF-F63D-4E8E-8724-9364FD8EB4D4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>keycastow</RootNamespace>
+    <RootNamespace>showus</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

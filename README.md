@@ -1,6 +1,6 @@
 # ShowUs
 
-Keystroke and mouse-click visualizer for <b><i>Windows</i></b>. Lets you easily display your keystrokes while recording screencasts.
+Keystroke and mouse-click visualiser for <b><i>Windows</i></b>. Lets you easily display your keystrokes while recording screencasts.
 
 * small footprint (one 100kb executable file)
 * portable, only depends on <i>Windows</i> system dlls

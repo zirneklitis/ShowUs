@@ -5,7 +5,7 @@ Keystroke and mouse-click visualizer for <b><i>Windows</i></b>. Lets you easily 
 * small footprint (one 100kb executable file)
 * portable, only depends on <i>Windows</i> system dlls
 * plenty of settings for keystroke display
-* in directory with rw permissions settings are kept in the showus.ini file
+* in a directory with rw permissions settings are kept in the showus.ini file
 * hotkey to turn on/off
 
 

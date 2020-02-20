@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   viewBox="0 0 512 511.99998"
+   version="1.1"
+   sodipodi:docname="showus.svg"
+   width="512"
+   height="512"
+   inkscape:version="0.92.4 (unknown)">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="723"
+     id="namedview10"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.34388592"
+     inkscape:cx="411.48562"
+     inkscape:cy="144.83508"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2010-11-14T21:52:02</dc:date>
+        <dc:description>A keyboard key or button.</dc:description>
+        <dc:source>http://openclipart.org/detail/95539/keyboard-button/key-by-tristanluigi</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>TristanLuigi</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>button</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>key</rdf:li>
+            <rdf:li>keyboard</rdf:li>
+            <rdf:li>press</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="pogas"
+     style="display:inline"
+     transform="translate(-2.4205548,323.34977)">
+    <g
+       id="g834"
+       transform="matrix(0.51234728,0,-0.29161105,2.1303718,62.731198,-258.73156)"
+       style="stroke:#a09191;stroke-width:4.97449017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         id="rect4867"
+         d="m 76.004,0 -76,134.34 h 548.56 L 472.564,0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#e6e6e6;stroke:#a09191;stroke-width:4.97449017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         id="rect4892"
+         height="60.273991"
+         width="548"
+         y="155.71555"
+         x="-78.176674"
+         style="fill:#999999;stroke:#a09191;stroke-width:5.35564613;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1,0,0.50567001,0.86272698,0,0)" />
+    </g>
+    <g
+       transform="matrix(-0.32588495,0,0.18548288,2.1303718,466.30641,-258.73156)"
+       id="g846"
+       style="stroke:#a09191;stroke-width:4.97449017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         style="fill:#e6e6e6;stroke:#a09191;stroke-width:4.97449017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 76.004,0 -76,134.34 h 548.56 L 472.564,0 Z"
+         id="path842" />
+      <rect
+         transform="matrix(1,0,0.50567001,0.86272698,0,0)"
+         style="fill:#999999;stroke:#a09191;stroke-width:5.35564613;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-78.176674"
+         y="155.71555"
+         width="548"
+         height="60.273991"
+         id="rect844" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="uzraksti"
+     style="display:inline"
+     transform="translate(-2.4205548,323.34977)">
+    <g
+       id="g880"
+       transform="matrix(0.8348446,0,0,2.1303718,235.48957,-842.23475)">
+      <text
+         transform="skewX(-17.335183)"
+         id="text858"
+         y="376.5126"
+         x="-79.062134"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112px;line-height:104.99999523%;font-family:Sriracha;-inkscape-font-specification:'Sriracha, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="376.5126"
+           x="-79.062134"
+           id="tspan856"
+           sodipodi:role="line">S</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112px;line-height:104.99999523%;font-family:Sriracha;-inkscape-font-specification:'Sriracha, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-54.472931"
+         y="375.28058"
+         id="text862"
+         transform="skewX(-10.248528)"><tspan
+           sodipodi:role="line"
+           id="tspan860"
+           x="-54.472931"
+           y="375.28058">h</tspan></text>
+      <text
+         transform="skewX(-1.4037648)"
+         id="text866"
+         y="377.2966"
+         x="-53.578358"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112px;line-height:104.99999523%;font-family:Sriracha;-inkscape-font-specification:'Sriracha, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="377.2966"
+           x="-53.578358"
+           id="tspan864"
+           sodipodi:role="line">o</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112px;line-height:104.99999523%;font-family:Sriracha;-inkscape-font-specification:'Sriracha, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1.8080274"
+         y="377.6326"
+         id="text870"
+         transform="skewX(-1.4037648)"><tspan
+           sodipodi:role="line"
+           id="tspan868"
+           x="1.8080274"
+           y="377.6326">w</tspan></text>
+    </g>
+    <g
+       id="g890"
+       transform="matrix(0.80792863,0,0.28370933,2.1303718,-17.98007,-899.6285)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112px;line-height:104.99999523%;font-family:Sriracha;-inkscape-font-specification:'Sriracha, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="299.34137"
+         y="407.26132"
+         id="text854"><tspan
+           sodipodi:role="line"
+           id="tspan852"
+           x="299.34137"
+           y="407.26132">U</tspan></text>
+      <text
+         transform="skewX(11.999093)"
+         id="text884"
+         y="406.58932"
+         x="296.09775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112px;line-height:104.99999523%;font-family:Sriracha;-inkscape-font-specification:'Sriracha, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="406.58932"
+           x="296.09775"
+           id="tspan882"
+           sodipodi:role="line">s</tspan></text>
+    </g>
+  </g>
+</svg>

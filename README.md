@@ -14,3 +14,7 @@ keystroke visualizer for Windows, lets you easily display your keystrokes while 
 ## License
 
 MIT License
+
+# Acknowledge
+Most of the code in this repo was made by: [Brookhong](https://github.com/brookhong)
+in the program: [KeyCastOW](https://github.com/brookhong/KeyCastOW)
